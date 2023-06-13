@@ -13,12 +13,16 @@ I don't think anyone would make this work on their PC's without going into the c
 
 
 ## Excel format
-Sample Servers excel file @plik.tmp
+- [Sample Servers excel file](https://github.com/Filip3Kx/LabHealthScan/blob/main/server_calc.xlsx)
 
 | Name | Dut | Ctrlr | Rack |
 | --- | --- | --- | --- |
 
-Sample Raritan excel file 
+- [Sample Raritan excel file](https://github.com/Filip3Kx/LabHealthScan/blob/main/pdu_calc.xlsx)
 
 | Rack | IP |
 | --- | --- | 
+
+
+Ip's and names are covered for obvious reasons
+![image](https://github.com/Filip3Kx/LabHealthScan/assets/114138650/c55d3e69-fef4-4a57-b3bb-6df6ab6cb09c)
